@@ -30,7 +30,7 @@ class Simulator():
     def friday(self):
         while True:
             hour = yield
-            if random.random() < 1/7 and hour > 15:
+            if random.random() < 1/14 and hour > 15:
                 print('It is Friday.\n')
                 self.cur_state = self.drunk
     def motivation(self):
