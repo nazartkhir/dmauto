@@ -3,8 +3,10 @@ Usage:
 sim = Simulator()
 sim.day_sim()
 ```
+Diagram:
+![Diagram](diagram.pdf)
 Possible simulations:
-![Screenshot](photo1.png)
-![Screenshot](photo2.png)
-![Screenshot](photo3.png)
-![Screenshot](photo4.png)
+![Screenshot1](photo1.png)
+![Screenshot2](photo2.png)
+![Screenshot3](photo3.png)
+![Screenshot4](photo4.png)
